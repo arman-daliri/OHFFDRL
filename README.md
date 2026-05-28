@@ -3,8 +3,8 @@
 
 ### Note that the values ​​of the interpretability criteria change each time you run and output. By nature, the values ​​should change, and the model should remain stable and interpretable. So don't be surprised if the graphs change.
 
-# Under Review:
-### [BMC Medical Informatics and Decision Making](https://bmcmedinformdecismak.biomedcentral.com/) from Springer Nature.
+# published:
+### [BMC Medical Informatics and Decision Making]([https://bmcmedinformdecismak.biomedcentral.com/](https://doi.org/10.1186/s12911-026-03564-4)) from Springer Nature.
 
 # package:
 ### https://pypi.org/project/OHFFDRL/
